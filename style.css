@@ -1,0 +1,79 @@
+#kaneki {
+    width: 350px;
+    height: 350px;
+    margin: 20px;
+    background-color: rgb(155, 32, 1);
+    background-image: url(image/ima_1.png);
+    background-size: 245px;
+    background-repeat: no-repeat;
+    background-position: 50% 100%;
+    border: 10px double black;
+    float: left;
+}
+
+#touka {
+    width: 350px;
+    height: 350px;
+    margin: 20px;
+    background-color: rgb(53, 31, 175);
+    background-image: url(image/ima_2.png);
+    background-size: 230px;
+    background-repeat: no-repeat;
+    background-position: 60% 100%;
+    border: 10px double black;
+    float: left;
+}
+
+#loco {
+    width: 350px;
+    height: 350px;
+    margin: 20px;
+    background-color: rgb(88, 4, 121);
+    background-image: url(image/ima_3.png);
+    background-size: 250px;
+    background-repeat: no-repeat;
+    background-position: 50% 100%;
+    border: 10px double black;
+    float: left;
+}
+
+#rize {
+    width: 350px;
+    height: 350px;
+    margin: 20px;
+    background-color: rgb(53, 4, 28);
+    background-image: url(image/ima_4.png);
+    background-size: 350px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    border: 10px double black;
+    float: left;
+}
+
+.textos {
+    background-color: rgba(56, 52, 47, 0.644);
+    color: rgb(218, 218, 218);
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    margin-top: 180px;
+    text-align: center;
+}
+
+.titulo {
+    font-family: "Rajdhani", sans-serif;
+    text-align: center;
+    color: aliceblue;
+    background-color: rgba(56, 52, 47, 0.61);
+}
+
+@font-face {
+    font-family: 'DOWNCOME' ;
+    src: url(Fonts/DOWNCOME.TTF) ;
+}
+
+h1 {
+    font-family: 'DOWNCOME';
+    font-size: 100px;
+    text-align: center;
+}
